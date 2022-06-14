@@ -1,0 +1,6 @@
+build/
+build*/
+*.swp
+docker/*.out
+*compile_commands.json
+.cache
